@@ -1,5 +1,3 @@
-# Raj Krishna
-
 ## Skills
 
 - **Programming Languages:** Python, C/C++

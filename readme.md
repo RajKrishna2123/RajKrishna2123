@@ -29,30 +29,15 @@ Percentage: 82%
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px;">
-    - Python <br>
-    - Django <br>
-    - MySQL <br>
-    - TensorFlow <br>
-    - ANN, CNN, GAN <br>
-    - Scikit-learn
-  </div>
-  <div style="flex: 1; min-width: 200px;">
-    - MLOps <br>
-    - CI/CD <br>
-    - Kafka <br>
-    - Jenkins <br>
-    - RESTful API <br>
-    - OpenCV
-  </div>
-  <div style="flex: 1; min-width: 200px;">
-    - HTML, CSS <br>
-    - Docker <br>
-    - GitHub <br>
-    - C/C++
-  </div>
-</div>
+- **Programming Languages:** Python, C/C++
+- **Web Development:** Django, HTML, CSS
+- **Databases:** MySQL
+- **Machine Learning Frameworks:** TensorFlow, Scikit-learn
+- **Deep Learning:** ANN, CNN, GAN
+- **Computer Vision:** OpenCV
+- **MLOps:** Docker, CI/CD, Jenkins
+- **Message Brokers:** Kafka
+- **Version Control:** GitHub
 
 ---
 

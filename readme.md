@@ -23,11 +23,26 @@ Recent graduate skilled in developing web applications with integrated machine l
 ---
 ## Projects
 
-### Individual Projects
+### Team and Hackathon Projects
 
-#### Med-Pro
+#### Structural Recognition Backend
+**Company:** Firellama Technologies Pvt. Ltd.  
+**Location:** Remote  
+**Duration:** June - September 2023  
+Developed backend (MLOps and microservices) with integrated ML model that achieved 98% accuracy in complex structural recognition.
+Trained a table segmentation model on 1 million imagery data points.
+Reduced training time by more than 50% through GPU-specific programming, decreasing preprocessing time from 46 hours to 21 hours.
+Technology stack: OpenCV, TensorFlow, image segmentation, Docker, Django.
+
+####  Med-Pro
+**Hackathon:** Cloud Security Alliance, UPES University  
+**Date:** April 28-30  
 **Link:** [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)  
 Developed a multimodal AI model for cancer and skin disease detection, segmentation, and classification. Won a hackathon for this project.
+Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
+Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
+
+### Institute Projects
 
 #### Rock Segmentation
 **Institute:** IIT Dhanbad  
@@ -41,22 +56,11 @@ Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
 Developed to compare graph neural networks with traditional algorithms, aiding in the visualization of GNN advancements in pathfinding efficiency.  
 Tech stack: Django, TensorFlow, GNN, Algorithms (Dijkstra, Knapsack, Kruskal).
 
-#### ERP System
-**Institute:** Kendraya Vidyalaya  
-**Status:** Ongoing  
-**Date of Initiation:** December 2019  
-Microservices with unique functionalities, individually deployed for different services.  
-Tech stack: Docker, Django, MySQL, HTML, CSS, Microservices.
+### Individual Projects
 
-### Team Projects
-
-#### Self-Diagnosis Web App
-**Hackathon:** Cloud Security Alliance, UPES University  
-**Date:** April 28-30  
-Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
-Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
-
-### Institute Projects
+#### Med-Pro
+**Link:** [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)  
+Developed a multimodal AI model for cancer and skin disease detection, segmentation, and classification. Won a hackathon for this project.
 
 #### Mini Map
 **Institute:** DIT University  
@@ -71,24 +75,8 @@ Tech stack: Django, TensorFlow, GNN, Algorithms (Dijkstra, Knapsack, Kruskal).
 Microservices with unique functionalities, individually deployed for different services.  
 Tech stack: Docker, Django, MySQL, HTML, CSS, Microservices.
 
-### Hackathon Projects
-
-#### Self-Diagnosis Web App
-**Hackathon:** Cloud Security Alliance, UPES University  
-**Date:** April 28-30  
-Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
-Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
-
 ### Internship Projects
 
-#### Structural Recognition Backend
-**Company:** Firellama Technologies Pvt. Ltd.  
-**Location:** Remote  
-**Duration:** June - September 2023  
-Developed backend (MLOps and microservices) with integrated ML model that achieved 98% accuracy in complex structural recognition.
-Trained a table segmentation model on 1 million imagery data points.
-Reduced training time by more than 50% through GPU-specific programming, decreasing preprocessing time from 46 hours to 21 hours.
-Technology stack: OpenCV, TensorFlow, image segmentation, Docker, Django.
 
 ---
 
@@ -127,4 +115,3 @@ Patna, Bihar, India, 800014
 - [Rock Segmentation](https://github.com/RajKrishna2123/Rock_Segmentation)
 - [Mini Map](https://github.com/RajKrishna2123/mini_map_daa_project)
 - [ERP System](https://github.com/RajKrishna2123/ERP-System-RK)
-

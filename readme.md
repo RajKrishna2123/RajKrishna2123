@@ -58,10 +58,6 @@ Tech stack: Django, TensorFlow, GNN, Algorithms (Dijkstra, Knapsack, Kruskal).
 
 ### Individual Projects
 
-#### Med-Pro
-**Link:** [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)  
-Developed a multimodal AI model for cancer and skin disease detection, segmentation, and classification. Won a hackathon for this project.
-
 #### Mini Map
 **Institute:** DIT University  
 **Development Period:** January - February 2023  

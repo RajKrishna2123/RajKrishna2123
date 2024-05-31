@@ -1,13 +1,5 @@
 # Raj Krishna
 
----
-
-## Profile Summary
-
-Recent graduate skilled in developing web applications with integrated machine learning models. Specialized in innovative solutions at the convergence of web app development and machine learning. Passionate about creating efficient applications.
-
----
-
 ## Skills
 
 - **Programming Languages:** Python, C/C++

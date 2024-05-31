@@ -1,10 +1,5 @@
 # Raj Krishna
 
-**Email:** rkd3d9@outlook.com  
-**Phone:** +91 7217334761  
-**LinkedIn:** [linkedin.com/in/rkd3d9](https://www.linkedin.com/in/rkd3d9/)  
-**GitHub:** [github.com/RajKrishna2123](https://github.com/RajKrishna2123)
-
 ---
 
 ## Profile Summary

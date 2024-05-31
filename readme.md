@@ -8,25 +8,6 @@ Recent graduate skilled in developing web applications with integrated machine l
 
 ---
 
-## Education
-
-**DIT University**  
-B. Tech in Computer Science, Specialization in AI & Robotics  
-Batch: 2020-2024  
-CGPA till 7th semester: 7.4
-
-**Kendraya Vidyalaya Patna, Bihar**  
-12th Grade  
-Batch: 2019-2020  
-Percentage: 78%
-
-**Kendraya Vidyalaya Patna, Bihar**  
-10th Grade  
-Batch: 2017-2018  
-Percentage: 82%
-
----
-
 ## Skills
 
 - **Programming Languages:** Python, C/C++
@@ -40,21 +21,6 @@ Percentage: 82%
 - **Version Control:** GitHub
 
 ---
-
-## Work Experience
-
-**Computer Vision Intern**  
-**Company:** Firellama Technologies Pvt. Ltd.  
-**Location:** Remote  
-**Duration:** June - September 2023  
-
-- Developed backend (MLOps and microservices) with integrated ML model that achieved 98% accuracy in complex structural recognition.
-- Trained a table segmentation model on 1 million imagery data points.
-- Reduced training time by more than 50% through GPU-specific programming, decreasing preprocessing time from 46 hours to 21 hours.
-- Technology stack: OpenCV, TensorFlow, image segmentation, Docker, Django.
-
----
-
 ## Projects
 
 ### Med-Pro

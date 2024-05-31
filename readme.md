@@ -34,7 +34,7 @@ Trained a table segmentation model on 1 million imagery data points.
 Reduced training time by more than 50% through GPU-specific programming, decreasing preprocessing time from 46 hours to 21 hours.
 Technology stack: OpenCV, TensorFlow, image segmentation, Docker, Django.
 
-####  Med-Pro
+#### Med-Pro
 **Hackathon:** Cloud Security Alliance, UPES University  
 **Date:** April 28-30  
 **Link:** [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)  

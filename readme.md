@@ -23,28 +23,72 @@ Recent graduate skilled in developing web applications with integrated machine l
 ---
 ## Projects
 
-### Med-Pro
+### Individual Projects
+
+#### Med-Pro
 **Link:** [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)  
 Developed a multimodal AI model for cancer and skin disease detection, segmentation, and classification. Won a hackathon for this project.
 
-### Rock Segmentation
+#### Rock Segmentation
 **Institute:** IIT Dhanbad  
 **Development Period:** June - July 2023  
 Developed a rock segmentation model for early landslide detection and warning system.  
 Tech stack: OpenCV, TensorFlow, Image Segmentation, Python.
 
-### Mini Map
+#### Mini Map
 **Institute:** DIT University  
 **Development Period:** January - February 2023  
 Developed to compare graph neural networks with traditional algorithms, aiding in the visualization of GNN advancements in pathfinding efficiency.  
 Tech stack: Django, TensorFlow, GNN, Algorithms (Dijkstra, Knapsack, Kruskal).
 
-### ERP System
+#### ERP System
 **Institute:** Kendraya Vidyalaya  
 **Status:** Ongoing  
 **Date of Initiation:** December 2019  
 Microservices with unique functionalities, individually deployed for different services.  
 Tech stack: Docker, Django, MySQL, HTML, CSS, Microservices.
+
+### Team Projects
+
+#### Self-Diagnosis Web App
+**Hackathon:** Cloud Security Alliance, UPES University  
+**Date:** April 28-30  
+Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
+Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
+
+### Institute Projects
+
+#### Mini Map
+**Institute:** DIT University  
+**Development Period:** January - February 2023  
+Developed to compare graph neural networks with traditional algorithms, aiding in the visualization of GNN advancements in pathfinding efficiency.  
+Tech stack: Django, TensorFlow, GNN, Algorithms (Dijkstra, Knapsack, Kruskal).
+
+#### ERP System
+**Institute:** Kendraya Vidyalaya  
+**Status:** Ongoing  
+**Date of Initiation:** December 2019  
+Microservices with unique functionalities, individually deployed for different services.  
+Tech stack: Docker, Django, MySQL, HTML, CSS, Microservices.
+
+### Hackathon Projects
+
+#### Self-Diagnosis Web App
+**Hackathon:** Cloud Security Alliance, UPES University  
+**Date:** April 28-30  
+Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
+Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
+
+### Internship Projects
+
+#### Structural Recognition Backend
+**Company:** Firellama Technologies Pvt. Ltd.  
+**Location:** Remote  
+**Duration:** June - September 2023  
+Developed backend (MLOps and microservices) with integrated ML model that achieved 98% accuracy in complex structural recognition.
+Trained a table segmentation model on 1 million imagery data points.
+Reduced training time by more than 50% through GPU-specific programming, decreasing preprocessing time from 46 hours to 21 hours.
+Technology stack: OpenCV, TensorFlow, image segmentation, Docker, Django.
 
 ---
 

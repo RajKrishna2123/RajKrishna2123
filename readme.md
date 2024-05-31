@@ -105,13 +105,3 @@ Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
 
 ---
 
-## Contact
-
-**Home Address:**  
-Patna, Bihar, India, 800014
-
-**GitHub Projects:**
-- [Med-Pro](https://github.com/RajKrishna2123/Med-Pro)
-- [Rock Segmentation](https://github.com/RajKrishna2123/Rock_Segmentation)
-- [Mini Map](https://github.com/RajKrishna2123/mini_map_daa_project)
-- [ERP System](https://github.com/RajKrishna2123/ERP-System-RK)

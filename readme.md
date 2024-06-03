@@ -35,6 +35,14 @@
 - Developed an interactive web app for self-diagnosis in remote locations. Led a 3-member team to secure the 2nd runner-up position among 43 teams.  
 - Tech stack: Django, HTML, CSS, TensorFlow, Scikit-learn, OpenCV.
 
+### 3. random_face_generator 
+**Institute:** Dit University
+**Duration:** MAR 2024  
+
+**Link:** [random_poission_blended_face_generator](https://github.com/RajKrishna2123/random_poission_blended_face_generator)
+- Developed an Application that can assisted help its user to generate a random face from the feature either they select (from provided) or provide themselves.  
+- This project utilises the poison blending technique with mask to paste features like eyes nose and mouth to the face by blending the edges according to the provided image.  
+- Tech stack: Django, HTML, CSS, OpenCV.
 ## Institute and Individual Projects
 
 ### 1. Rock Segmentation
